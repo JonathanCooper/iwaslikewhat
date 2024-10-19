@@ -38,9 +38,10 @@ url: "https://iwaslikewhat.com"
 #remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 #remote_theme: papierkorp/jekyll-theme-horizon-flow
-remote_theme: daattali/beautiful-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
