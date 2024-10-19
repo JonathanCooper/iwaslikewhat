@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: I was like what
+title: I was like, "What?"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website about time that I was like, "What?"
+  This is a website about times that I was like, "What?"
 # domain: "iwaslikewhat.github.io"
 baseurl: "/"
 url: "https://iwaslikewhat.com"
