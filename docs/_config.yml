@@ -31,7 +31,7 @@ url: "https://iwaslikewhat.github.io" # the base hostname & protocol for your si
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
