@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a website about time that I was like, "What?"
 # domain: "iwaslikewhat.github.io"
 baseurl: "/"
-url: "https://jonathancooper.github.io/iwaslikewhat/"
+url: "https://iwaslikewhat.com"
 # url: "https://iwaslikewhat.com" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: "JonathanCooper/iwaslikewhat"
 #twitter_username: jekyllrb
