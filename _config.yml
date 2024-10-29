@@ -20,11 +20,12 @@
 
 title: I was like, "What?"
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a website about times that I was like, "What?"
+# description: >- # this means to ignore newlines until "baseurl:"
+#  This is a website about times that I was like, "What?"
 # domain: "iwaslikewhat.github.io"
 baseurl: "/"
 url: "https://iwaslikewhat.com"
+logo: "images/logo.webp"
 # url: "https://iwaslikewhat.com" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: "JonathanCooper/iwaslikewhat"
 #twitter_username: jekyllrb
@@ -33,13 +34,13 @@ url: "https://iwaslikewhat.com"
 # Build settings
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/slate@v0.2.0
-#remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
+# remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 #remote_theme: sylhare/Type-on-Strap
-#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 #remote_theme: papierkorp/jekyll-theme-horizon-flow
-#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-remote_theme: "wowthemesnet/mediumish-theme-jekyll"
+#remote_theme: "wowthemesnet/mediumish-theme-jekyll"
+#remote_theme: "dirkfabisch/mediator"
 plugins:
   - jekyll-feed
 #  - jekyll-include-cache
